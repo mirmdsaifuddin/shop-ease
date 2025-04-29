@@ -1,12 +1,12 @@
-import PageNavigation from "../Components/PageNavigation"
+import PageNavigation from "../Components/PageNavigation";
 
 function PageNotFound() {
-    return (
-        <div>
-            <PageNavigation/>
-            <h1>Coming soon......</h1>
-        </div>
-    )
+  return (
+    <div>
+      <PageNavigation />
+      <h1>Click on any button to Start...</h1>
+    </div>
+  );
 }
 
-export default PageNotFound
+export default PageNotFound;
