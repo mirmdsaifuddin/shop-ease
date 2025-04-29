@@ -1,0 +1,1 @@
+import{j as o}from"./index-vip_UrZy.js";import{P as i}from"./PageNavigation-BbCk5mDL.js";function s(){return o.jsxs("div",{children:[o.jsx(i,{}),o.jsx("h1",{children:"Coming soon......"})]})}export{s as default};
